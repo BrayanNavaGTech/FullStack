@@ -1,0 +1,3 @@
+La implementación permitió afianzar conocimientos sobre el flujo de datos entre servidor y cliente, especialmente en el uso de componentes de servidor que envían información a componentes interactivos de cliente de forma segura y bien estructurada.
+
+También se destacó la importancia de usar fallbacks para mantener la interfaz estable ante fallos de datos. En conjunto, la arquitectura no solo cubre las necesidades actuales, sino que deja una base sólida para el crecimiento futuro del proyecto.

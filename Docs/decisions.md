@@ -1,0 +1,3 @@
+El desarrollo aprovecha los Server Components de Next.js para obtener contenido desde Sanity, lo que reduce la carga en el cliente y mejora el SEO al mostrar contenido ya renderizado. Además, Sanity Studio se integra dentro de la aplicación en la ruta /studio, facilitando la gestión y el mantenimiento.
+
+En cuanto a la seguridad, Convex se encarga de aplicar las reglas de negocio importantes, mientras que Sanity gestiona cómo estas se muestran al usuario. Por ejemplo, el límite de cinco tareas se valida en Convex, pero el mensaje que ve el usuario se obtiene directamente desde el CMS.
